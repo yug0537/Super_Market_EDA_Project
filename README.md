@@ -29,6 +29,9 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
   - Used seaborn and matplotlib for visualizations.
   - Grouped and aggregated data to identify high-performing segments.
  
+## Jupyter File
+
+ 
 ## Insights
 - Top Branch:
   - Branch C leads in overall sales and customer satisfaction.
