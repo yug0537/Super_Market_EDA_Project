@@ -44,5 +44,5 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
   - Health and Beauty generates the highest gross income.
 - Sales Timing Patterns:
   - Peak sales occur around 2 PM, 5 PM, and 7 PM.
-	- Food and Beverages are bought mostly around 11 AM, while Electronics peak at 7 PM.
+  - Food and Beverages are bought mostly around 11 AM, while Electronics peak at 7 PM.
 
