@@ -7,6 +7,12 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
 ## Dataset Used
 - <a href="https://github.com/yug0537/Super_Market_EDA_Project/commit/8c3164beef54cbb3a2848065b07a2881fa52735d">Raw Data</a>
 
+## Tools Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
 ## Process
 - Data Loading & Exploration:
   - Loaded the dataset using pandas and performed exploratory analysis.
