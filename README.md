@@ -13,10 +13,10 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
 	- Dataset features include customer demographics, purchase details, product categories, and transaction info.
 - Data Cleaning:
   - Verified null values and data consistency.
-	- Computed total transaction values from unit price and quantity.
-	- Categorical Analysis:
-	- Analyzed key categories: Branch, Product Line, Gender, Customer Type, Payment Method.
+  - Computed total transaction values from unit price and quantity.
+- Categorical Analysis:
+  - Analyzed key categories: Branch, Product Line, Gender, Customer Type, Payment Method.
 - Insight Generation:
   - Used seaborn and matplotlib for visualizations.
-	- Grouped and aggregated data to identify high-performing segments.
+  - Grouped and aggregated data to identify high-performing segments.
 
