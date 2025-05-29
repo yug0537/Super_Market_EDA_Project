@@ -30,6 +30,7 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
   - Grouped and aggregated data to identify high-performing segments.
  
 ## Jupyter File
+<a href="https://github.com/yug0537/Super_Market_EDA_Project/commit/72029c37ab0a09436d77fae67bb0cb7b82ca871e"EDA File<a/>
 
  
 ## Insights
