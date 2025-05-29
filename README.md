@@ -28,4 +28,21 @@ The goal was to uncover sales trends, customer behaviors, and performance metric
 - Insight Generation:
   - Used seaborn and matplotlib for visualizations.
   - Grouped and aggregated data to identify high-performing segments.
+ 
+## Insights
+- Top Branch:
+  - Branch C leads in overall sales and customer satisfaction.
+- Best-Selling Product Line per Branch:
+  - Food and Beverages dominate in all branches, especially in Branch C.
+- Customer Type vs. Income:
+  - Member customers contribute slightly more to gross income than non-members.
+- Highest Gross Income by Day:
+  - Sunday records the most gross income across all branches.
+- Preferred Payment Method:
+  - E-wallet is the most used payment method, followed by cash.
+- Product Line & Gross Income:
+  - Health and Beauty generates the highest gross income.
+- Sales Timing Patterns:
+  - Peak sales occur around 2 PM, 5 PM, and 7 PM.
+	- Food and Beverages are bought mostly around 11 AM, while Electronics peak at 7 PM.
 
