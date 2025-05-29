@@ -3,3 +3,6 @@ This project presents a detailed analysis of a supermarket’s sales data collec
 
 ## Objective
 The goal was to uncover sales trends, customer behaviors, and performance metrics using Python-based data analytics techniques. The analysis provides actionable insights for business decision-making regarding branch performance, product preferences, peak hours, and customer satisfaction.
+
+## Dataset Used
+
